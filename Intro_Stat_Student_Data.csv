@@ -1,0 +1,249 @@
+EyeColor,IceCream,Snack,Adjective,Gender,Class
+Blue,vanilla,peanuts,Lively,Male,AM
+Green,chocolate,Tchip,Lively,Male,AM
+Green,chocolate,Pchip,Outgoing,Male,AM
+Brown,vanilla,pretzels,Lively,Male,AM
+Brown,vanilla,popcorn,Lively,Male,AM
+Green,vanilla,beef jerky,Outgoing,Male,AM
+Brown,vanilla,beef jerky,Moral,Male,AM
+Brown,vanilla,Tchip,Outgoing,Male,AM
+Green,chocolate,pretzels,Moral,Male,AM
+Blue,vanilla,Pchip,Moral,Male,AM
+Green,vanilla,popcorn,Moral,Male,AM
+Brown,coffee,beef jerky,Lively,Male,AM
+Brown,chocolate,pretzels,Moral,Male,AM
+Blue,fruit,pretzels,Perfectionist,Male,AM
+Brown,vanilla,Pchip,Aggressive,Male,AM
+Brown,fruit,Pchip,Moral,Male,AM
+Brown,vanilla,beef jerky,Moral,Male,AM
+Green,vanilla,popcorn,Perfectionist,Male,AM
+Brown,chocolate,popcorn,Aggressive,Male,AM
+Brown,coffee,beef jerky,Aggressive,Male,AM
+Blue,chocolate,popcorn,Outgoing,Male,AM
+Blue,fruit,beef jerky,Outgoing,Male,AM
+Blue,chocolate,Tchip,Lively,Male,AM
+Brown,vanilla,Tchip,Lively,Male,AM
+Hazel,fruit,beef jerky,Outgoing,Male,AM
+Brown,vanilla,beef jerky,Moral,Male,AM
+Brown,vanilla,Pchip,Lively,Male,AM
+Blue,vanilla,peanuts,Moral,Male,AM
+Blue,vanilla,Pchip,Moral,Male,AM
+Blue,vanilla,Tchip,Moral,Male,AM
+Brown,vanilla,beef jerky,Moral,Male,AM
+Brown,chocolate,beef jerky,Outgoing,Male,AM
+Green,chocolate,pretzels,Moral,Male,AM
+Brown,vanilla,pretzels,Lively,Male,AM
+Brown,chocolate,Pchip,Aggressive,Male,AM
+Hazel,fruit,beef jerky,Lively,Male,AM
+Green,fruit,beef jerky,Aggressive,Male,AM
+Hazel,coffee,beef jerky,Lively,Female,AM
+Hazel,vanilla,Tchip,Perfectionist,Female,AM
+Brown,vanilla,cheese,Lively,Female,AM
+Brown,chocolate,pretzels,Moral,Female,AM
+Green,chocolate,Pchip,Lively,Female,AM
+Blue,vanilla,Tchip,Perfectionist,Female,AM
+Green,fruit,popcorn,Outgoing,Female,AM
+Blue,vanilla,pretzels,Moral,Female,AM
+Blue,vanilla,pretzels,Perfectionist,Female,AM
+Brown,chocolate,pretzels,Lively,Female,AM
+Brown,chocolate,peanuts,Lively,Female,AM
+Blue,chocolate,Tchip,Outgoing,Female,AM
+Blue,chocolate,cheese,Lively,Female,AM
+Brown,coffee,popcorn,Outgoing,Female,AM
+Brown,chocolate,Pchip,Outgoing,Female,AM
+Brown,vanilla,cheese,Lively,Female,AM
+Green,chocolate,Pchip,Lively,Female,AM
+Green,coffee,Tchip,Lively,Female,AM
+Brown,vanilla,popcorn,Aggressive,Female,AM
+Hazel,fruit,Pchip,Perfectionist,Female,AM
+Brown,coffee,Pchip,Lively,Female,AM
+Hazel,chocolate,popcorn,Moral,Female,AM
+Blue,chocolate,popcorn,Moral,Female,AM
+Green,fruit,popcorn,Perfectionist,Female,AM
+Green,vanilla,Tchip,Lively,Female,AM
+Blue,coffee,cheese,Perfectionist,Female,AM
+Brown,vanilla,Pchip,Perfectionist,Female,AM
+Brown,coffee,Pchip,Outgoing,Female,AM
+Green,chocolate,pretzels,Moral,Female,AM
+Brown,chocolate,pretzels,Aggressive,Female,AM
+Hazel,chocolate,cheese,Moral,Female,AM
+Blue,chocolate,pretzels,Outgoing,Female,AM
+Blue,coffee,popcorn,Outgoing,Female,AM
+Green,chocolate,Tchip,Moral,Female,AM
+Brown,vanilla,Tchip,Lively,Female,AM
+Brown,chocolate,Tchip,Moral,Female,AM
+Hazel,chocolate,pretzels,Outgoing,Female,AM
+Blue,chocolate,Tchip,Perfectionist,Female,AM
+Green,chocolate,Pchip,Lively,Female,AM
+Brown,chocolate,Tchip,Lively,Female,AM
+Brown,vanilla,pretzels,Moral,Female,AM
+Brown,vanilla,pretzels,Lively,Female,AM
+Blue,chocolate,Tchip,Perfectionist,Female,AM
+Brown,chocolate,cheese,Perfectionist,Female,AM
+Brown,chocolate,pretzels,Outgoing,Female,AM
+Brown,chocolate,cheese,Perfectionist,Female,AM
+Hazel,vanilla,Pchip,Outgoing,Female,AM
+Blue,chocolate,Pchip,Moral,Female,AM
+Brown,fruit,cheese,Moral,Female,AM
+Blue,vanilla,popcorn,Lively,Female,AM
+Brown,vanilla,cheese,Outgoing,Female,AM
+Blue,chocolate,Pchip,Lively,Female,AM
+Green,fruit,pretzels,Lively,Female,AM
+Brown,fruit,pretzels,Moral,Female,AM
+Brown,vanilla,Pchip,Perfectionist,Female,AM
+Brown,vanilla,pretzels,Lively,Female,AM
+Hazel,vanilla,Tchip,Outgoing,Female,AM
+Green,vanilla,peanuts,Moral,Female,AM
+Hazel,vanilla,popcorn,Lively,Female,AM
+Brown,vanilla,popcorn,Perfectionist,Female,AM
+Brown,chocolate,Pchip,Lively,Female,AM
+Brown,vanilla,Pchip,Perfectionist,Female,AM
+Brown,chocolate,Pchip,Moral,Female,AM
+Brown,vanilla,Pchip,Moral,Female,AM
+Blue,chocolate,pretzels,Perfectionist,Female,AM
+Blue,vanilla,pretzels,Lively,Female,AM
+Blue,vanilla,peanuts,Outgoing,Female,AM
+Brown,fruit,cheese,Outgoing,Female,AM
+Brown,coffee,Pchip,Lively,Female,AM
+Brown,coffee,Pchip,Lively,Female,AM
+Brown,chocolate,Pchip,Outgoing,Female,AM
+Green,chocolate,Tchip,Outgoing,Female,AM
+Blue,vanilla,Pchip,Moral,Female,AM
+Green,coffee,Tchip,Lively,Female,AM
+Brown,chocolate,pretzels,Lively,Female,AM
+Brown,vanilla,Tchip,Perfectionist,Female,AM
+Brown,vanilla,Pchip,Lively,Female,AM
+Hazel,fruit,Tchip,Lively,Female,AM
+Brown,fruit,pretzels,Moral,Female,AM
+Brown,chocolate,Pchip,Perfectionist,Female,AM
+Blue,chocolate,popcorn,Lively,Female,AM
+Brown,fruit,Pchip,Lively,Female,AM
+Brown,vanilla,cheese,Perfectionist,Female,AM
+Blue,fruit,pretzels,Moral,Female,AM
+Green,chocolate,pretzels,Aggressive,Female,AM
+Brown,vanilla,pretzels,Aggressive,Female,AM
+Brown,chocolate,popcorn,Outgoing,Female,AM
+Blue,coffee,Pchip,Perfectionist,Female,AM
+Blue,chocolate,Pchip,Aggressive,Female,AM
+Green,chocolate,cheese,Aggressive,Female,AM
+Hazel,chocolate,Pchip,Outgoing,Female,AM
+Blue,vanilla,pretzels,Outgoing,Female,AM
+Brown,vanilla,popcorn,Perfectionist,Female,AM
+Brown,vanilla,Pchip,Perfectionist,Female,PM
+Hazel,chocolate,popcorn,Moral,Female,PM
+Brown,vanilla,Pchip,Lively,Female,PM
+Hazel,fruit,pretzels,Moral,Female,PM
+Brown,vanilla,Tchip,Perfectionist,Female,PM
+Brown,vanilla,Tchip,Perfectionist,Female,PM
+Blue,chocolate,Tchip,Lively,Female,PM
+Green,chocolate,peanuts,Moral,Female,PM
+Hazel,chocolate,popcorn,Moral,Female,PM
+Blue,chocolate,Tchip,Perfectionist,Female,PM
+Hazel,fruit,beef jerky,Outgoing,Female,PM
+Green,fruit,Pchip,Perfectionist,Female,PM
+Blue,chocolate,cheese,Perfectionist,Female,PM
+Blue,fruit,popcorn,Outgoing,Female,PM
+Brown,vanilla,Pchip,Perfectionist,Female,PM
+Brown,coffee,Tchip,Moral,Female,PM
+Brown,vanilla,pretzels,Moral,Female,PM
+Brown,vanilla,Tchip,Moral,Female,PM
+Brown,chocolate,pretzels,Lively,Female,PM
+Blue,chocolate,pretzels,Outgoing,Female,PM
+Brown,vanilla,cheese,Moral,Female,PM
+Hazel,chocolate,pretzels,Perfectionist,Female,PM
+Green,chocolate,Tchip,Perfectionist,Female,PM
+Brown,vanilla,Pchip,Outgoing,Female,PM
+Blue,vanilla,Tchip,Lively,Female,PM
+Brown,vanilla,Pchip,Moral,Female,PM
+Blue,vanilla,beef jerky,Aggressive,Female,PM
+Blue,vanilla,Tchip,Outgoing,Female,PM
+Brown,chocolate,Tchip,Lively,Female,PM
+Brown,vanilla,Pchip,Perfectionist,Female,PM
+Brown,fruit,Pchip,Perfectionist,Female,PM
+Green,coffee,Tchip,Lively,Female,PM
+Hazel,chocolate,Tchip,Aggressive,Female,PM
+Hazel,fruit,Pchip,Perfectionist,Female,PM
+Brown,chocolate,popcorn,Moral,Female,PM
+Green,fruit,Pchip,Moral,Female,PM
+Brown,chocolate,pretzels,Moral,Female,PM
+Hazel,chocolate,pretzels,Moral,Female,PM
+Green,vanilla,beef jerky,Lively,Female,PM
+Brown,coffee,Tchip,Moral,Female,PM
+Green,chocolate,cheese,Aggressive,Female,PM
+Brown,chocolate,Pchip,Perfectionist,Female,PM
+Brown,coffee,popcorn,Moral,Female,PM
+Brown,chocolate,Pchip,Lively,Female,PM
+Brown,chocolate,peanuts,Moral,Female,PM
+Brown,vanilla,Tchip,Aggressive,Female,PM
+Blue,chocolate,pretzels,Outgoing,Female,PM
+Brown,fruit,Pchip,Aggressive,Female,PM
+Green,vanilla,popcorn,Perfectionist,Female,PM
+Blue,chocolate,beef jerky,Outgoing,Female,PM
+Hazel,chocolate,Pchip,Moral,Female,PM
+Brown,coffee,pretzels,Lively,Female,PM
+Blue,vanilla,pretzels,Moral,Female,PM
+Blue,vanilla,popcorn,Moral,Female,PM
+Hazel,chocolate,Pchip,Lively,Female,PM
+Brown,vanilla,Tchip,Moral,Female,PM
+Brown,chocolate,Tchip,Outgoing,Female,PM
+Brown,coffee,Tchip,Lively,Female,PM
+Brown,chocolate,Tchip,Lively,Female,PM
+Green,chocolate,Tchip,Perfectionist,Female,PM
+Brown,coffee,pretzels,Outgoing,Female,PM
+Green,chocolate,peanuts,Lively,Female,PM
+Green,vanilla,Tchip,Lively,Female,PM
+Brown,coffee,Pchip,Lively,Female,PM
+Brown,vanilla,Pchip,Perfectionist,Female,PM
+Hazel,vanilla,beef jerky,Moral,Female,PM
+Brown,vanilla,Pchip,Outgoing,Female,PM
+Blue,chocolate,beef jerky,Outgoing,Female,PM
+Green,chocolate,Pchip,Moral,Female,PM
+Hazel,vanilla,popcorn,Moral,Female,PM
+Green,vanilla,Tchip,Moral,Female,PM
+Brown,chocolate,Tchip,Aggressive,Female,PM
+Brown,fruit,popcorn,Lively,Female,PM
+Brown,chocolate,Pchip,Lively,Male,PM
+Blue,vanilla,Pchip,Moral,Male,PM
+Blue,coffee,Pchip,Perfectionist,Male,PM
+Brown,chocolate,Tchip,Outgoing,Male,PM
+Brown,vanilla,popcorn,Moral,Male,PM
+Brown,chocolate,Tchip,Outgoing,Male,PM
+Brown,vanilla,Pchip,Moral,Male,PM
+Green,chocolate,Pchip,Aggressive,Male,PM
+Blue,chocolate,beef jerky,Outgoing,Male,PM
+Brown,fruit,popcorn,Lively,Male,PM
+Brown,chocolate,beef jerky,Moral,Male,PM
+Brown,vanilla,Pchip,Perfectionist,Male,PM
+Blue,vanilla,Tchip,Aggressive,Male,PM
+Hazel,chocolate,beef jerky,Lively,Male,PM
+Hazel,vanilla,Tchip,Perfectionist,Male,PM
+Blue,fruit,Tchip,Lively,Male,PM
+Brown,vanilla,Pchip,Perfectionist,Male,PM
+Blue,vanilla,peanuts,Perfectionist,Male,PM
+Brown,fruit,peanuts,Moral,Male,PM
+Hazel,chocolate,beef jerky,Moral,Male,PM
+Green,chocolate,Pchip,Aggressive,Male,PM
+Brown,chocolate,Pchip,Outgoing,Male,PM
+Blue,vanilla,peanuts,Lively,Male,PM
+Brown,vanilla,Pchip,Outgoing,Male,PM
+Blue,fruit,peanuts,Moral,Male,PM
+Brown,chocolate,peanuts,Moral,Male,PM
+Brown,chocolate,Tchip,Moral,Male,PM
+Brown,vanilla,Pchip,Moral,Male,PM
+Blue,vanilla,Pchip,Moral,Male,PM
+Hazel,coffee,peanuts,Outgoing,Male,PM
+Green,vanilla,Pchip,Moral,Male,PM
+Blue,chocolate,Pchip,Perfectionist,Male,PM
+Green,chocolate,Tchip,Perfectionist,Male,PM
+Blue,vanilla,Pchip,Outgoing,Male,PM
+Blue,coffee,beef jerky,Lively,Male,PM
+Blue,vanilla,popcorn,Lively,Male,PM
+Blue,vanilla,Tchip,Lively,Male,PM
+Blue,vanilla,Pchip,Moral,Male,PM
+Brown,vanilla,cheese,Lively,Male,PM
+Brown,vanilla,Tchip,Moral,Male,PM
+Blue,coffee,Tchip,Moral,Male,PM
+Brown,vanilla,peanuts,Moral,Male,PM
+Green,coffee,pretzels,Moral,Male,PM
+Green,vanilla,Tchip,Moral,Male,PM
+Blue,vanilla,Pchip,Perfectionist,Male,PM
